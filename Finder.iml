@@ -10,14 +10,10 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://F:/Academic/Google Drive/Semester 7/Project/JSOUP html extracter/jsoup-1.7.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../jsoup-1.7.3.jar!/" />
         </CLASSES>
-        <JAVADOC>
-          <root url="jar://F:/Academic/Google Drive/Semester 7/Project/JSOUP html extracter/jsoup-1.7.3-javadoc.jar!/" />
-        </JAVADOC>
-        <SOURCES>
-          <root url="jar://F:/Academic/Google Drive/Semester 7/Project/JSOUP html extracter/jsoup-1.7.3-sources.jar!/" />
-        </SOURCES>
+        <JAVADOC />
+        <SOURCES />
       </library>
     </orderEntry>
   </component>

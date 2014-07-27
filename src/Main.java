@@ -12,7 +12,7 @@ public class Main {
 
         Google g=new Google();
         LinkedInExtractor linkedIn=new LinkedInExtractor();
-        String link=g.FindOnLinkedIn("malaka walpola");             // insert name here
+        String link=g.FindOnLinkedIn("maduranga siriwardena");             // insert name here
         System.out.println(link);
         linkedIn.Extract(link);
     }
